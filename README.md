@@ -8,7 +8,7 @@ The objective is to identify key factors affecting employee retention and provid
 
 ## 🖼 Dashboard Preview
 
-![HR Dashboard](Screenshot 2026-02-17 233936.png)
+![HR Dashboard](hr_dashboard.png)
 
 > Note: Make sure your dashboard screenshot file name is `hr_dashboard.png` and uploaded to this repository.
 
